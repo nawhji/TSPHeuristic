@@ -40,4 +40,4 @@ g++ -O2 -o tsp main.cc
 
 ## Report
 
-Full analysis: [project report]([https://nawhji.github.io](https://github.com/nawhji/TSPHeuristic/blob/master/CSE331___Assignment__2(20231233).pdf))
+Full analysis: [project report]([https://nawhji.github.io](https://github.com/nawhji/TSPHeuristic/blob/master/CSE331___Assignment__2(20231233).pdf)
